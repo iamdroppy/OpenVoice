@@ -30,15 +30,28 @@ Starting from April 2024, both V2 and V1 are released under MIT License. Free fo
 
 OpenVoice has been powering the instant voice cloning capability of [myshell.ai](https://app.myshell.ai/explore) since May 2023. Until Nov 2023, the voice cloning model has been used tens of millions of times by users worldwide, and witnessed the explosive user growth on the platform.
 
+### OpenVoice V2.1 (fork)
+
+In September 2026, we revisited OpenVoice 2 and added some minor improvements.
+
+> TODO: Changelog
+
 ## Main Contributors
 
 - [Zengyi Qin](https://www.qinzy.tech) at MIT
 - [Wenliang Zhao](https://wl-zhao.github.io) at Tsinghua University
 - [Xumin Yu](https://yuxumin.github.io) at Tsinghua University
 - [Ethan Sun](https://twitter.com/ethan_myshell) at MyShell
+- [Lucca Ferri](https://github.com/iamdroppy)
 
 ## How to Use
 Please see [usage](docs/USAGE.md) for detailed instructions.
+
+The easiest way is by executing:
+
+```bash
+python main.py --ui
+```
 
 ## Common Issues
 
